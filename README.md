@@ -81,15 +81,15 @@ $ whoami --devops-path
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=HirushaSipsara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HirushaSipsara&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center"><sub>Top languages & trophy widgets removed — that free hosting service was timing out intermittently. Want them back in? Just ask and I'll re-add with a self-hosted alternative that's more reliable.</sub></p>
+<!-- <p align="center"><sub>Top languages & trophy widgets removed — that free hosting service was timing out intermittently. Want them back in? Just ask and I'll re-add with a self-hosted alternative that's more reliable.</sub></p> -->
 
 ## 🐍 Contribution Snake
 
