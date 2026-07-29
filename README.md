@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hirusha</h1>
+﻿<h1 align="center">Hi 👋, I'm Hirusha</h1>
 <h3 align="center">DevOps-focused Engineer | Cloud Enthusiast | BSc (Hons) Computer Science @ SLIIT</h3>
 
 <p align="center">
@@ -92,32 +92,66 @@ $ whoami --devops-path
 
 ### 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HirushaSipsara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p> -->
+> ⚠️ The public `github-readme-stats` instance is shared by thousands of users and often returns **"API rate limit exceeded"**. Self-hosting on Vercel (free tier) with your own token fixes this permanently — expand below for steps.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HirushaSipsara&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HirushaSipsara&show_icons=true&hide_border=true&count_private=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&icon_color=089182&text_color=c9d1d9" alt="Hirusha's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirushaSipsara&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </p>
-
-<!-- <p align="center"><sub>Top languages & trophy widgets removed — that free hosting service was timing out intermittently. Want them back in? Just ask and I'll re-add with a self-hosted alternative that's more reliable.</sub></p> -->
-
-## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/HirushaSipsara/HirushaSipsara/gh-pages/github-contribution-grid-snake-dark.svg">
-
+  <img width="100%" src="https://streak-stats.demolab.com/?user=HirushaSipsara&hide_border=true&background=0A101F&stroke=22D3EE&ring=089182&fire=22D3EE&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=22D3EE&sideLabels=089182&dates=c9d1d9" alt="GitHub Streak" />
 </p>
+
+<details>
+<summary>📌 <strong>How to self-host stats cards (recommended — fixes rate limit errors)</strong></summary>
+
+**Step 1 — Create a GitHub classic token**
+- GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic)
+- Click **Generate new token (classic)** → scope: `repo` → expiration: **No expiration**
+- ⚠️ **Copy it immediately — you can't see it again. Never paste it anywhere public.**
+
+**Step 2 — Fork the repo**
+- Go to [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and click **Fork**
+
+**Step 3 — Deploy to Vercel**
+- Sign up at [vercel.com](https://vercel.com) with GitHub (Hobby plan is free)
+- **Add New Project** → import your fork
+- Add environment variable: `PAT_1` = your token from Step 1
+- Click **Deploy**
+
+**Step 4 — Update README URLs**
+- Replace `github-readme-stats.vercel.app` in this README with your own Vercel instance URL
+
+</details>
+
+---
+
+### 🐍 Contribution Snake
+
+<!-- ⚠️ The snake only renders after the GitHub Action runs green at least once.
+     The gh-pages branch doesn't exist before then — add this section after that. -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HirushaSipsara/HirushaSipsara/gh-pages/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HirushaSipsara/HirushaSipsara/gh-pages/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/HirushaSipsara/HirushaSipsara/gh-pages/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hirusha-silva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hirushasipsara@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hirusha-silva" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:hirushasipsara@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
 </p>
-
 
 <p align="center"><i>Currently open to DevOps, Software Engineering, and AI internship opportunities 🚀</i></p>
