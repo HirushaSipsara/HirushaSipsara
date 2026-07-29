@@ -6,20 +6,21 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/matrix-banner.svg" width="100%" alt="matrix banner" />
+  <img src="https://raw.githubusercontent.com/HirushaSipsara/HirushaSipsara/main/matrix-banner.svg" width="100%" alt="matrix banner" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Computer Science undergrad at **SLIIT** (Sri Lanka Institute of Information Technology)
-- ☁️ Mainly focused on **DevOps & Cloud Engineering** — that's where most of my time goes
-- 🧩 Currently in the **IEEE Young Protégé 2026 DevOps Mentorship Program**, going deep on Linux, Docker, Terraform, Ansible, and AWS
-- 🔧 Comfortable across the full DevOps loop: provisioning infra (Terraform) → configuring it (Ansible) → containerizing apps (Docker) → shipping to the cloud (AWS ECR, Azure) → automating it all (GitHub Actions CI/CD)
-- 🔐 Big on doing cloud the _right_ way — IAM roles over hardcoded credentials, reproducible infra, and understanding **why** a tool is used, not just how
+- 🎓 3rd-year BSc (Hons) Computer Science undergrad at **SLIIT** (Sri Lanka Institute of Information Technology)
+- ☁️ Focused on **DevOps & Cloud Engineering** — that's where most of my time and energy goes
+- 🧩 Currently in the **IEEE Young Protégé 2026 Mentorship Program** (Jun–Sep 2026), mentored by a Senior DevOps Engineer at CMS (Pvt) Ltd, building an end-to-end deployment & observability pipeline on **AWS ECS**
+- 🔧 Comfortable across the full DevOps loop: provisioning infra (Terraform) → configuring it (Ansible) → containerizing apps (Docker) → shipping to the cloud (AWS, Azure) → automating it all (GitHub Actions CI/CD) → watching it run (Prometheus + Grafana)
+- 🔐 Big on doing cloud the *right* way — IAM roles over hardcoded credentials, reproducible infra, and understanding **why** a tool is used, not just how
 - 💻 Also open to **Software Engineering** and **AI internships** alongside DevOps roles
-- 💡 Exploring AI-forward microservice business ideas for the Sri Lankan market
+- 🎤 Member of a Gavel Club (Toastmasters-style) — sharpening communication alongside the tech
+- 🧠 Keep my problem-solving sharp with competitive programming in C
 - 🌱 Self-directed learner — I build hands-on projects to actually absorb what I study, not just pass exams
 
 ---
@@ -33,11 +34,12 @@ $ whoami --devops-path
 [x] Docker — containerizing applications end-to-end
 [x] Terraform — infrastructure provisioning (IaC)
 [x] Ansible — configuration management, post-provision setup
-[x] AWS — ECR, IAM role-based auth (no hardcoded creds!)
+[x] AWS — EC2, ECR, IAM role-based auth (no hardcoded creds!)
 [x] Azure — cloud fundamentals, cross-cloud exposure
 [x] GitHub Actions — CI/CD pipeline automation
+[~] AWS ECS Fargate + RDS — deploying a production-style app end-to-end (in progress)
+[~] Prometheus & Grafana — observability layer for the same pipeline (in progress)
 [ ] Kubernetes — next on the list
-[ ] Monitoring & Observability (Prometheus/Grafana) — up next
 ```
 
 > **Core lesson that stuck with me:** Terraform and Ansible aren't interchangeable — Terraform builds the infrastructure, Ansible configures what runs on it. Knowing where one ends and the other begins is half the job.
@@ -60,6 +62,8 @@ $ whoami --devops-path
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Backend**
@@ -72,10 +76,17 @@ $ whoami --devops-path
 
 ### 🔭 Currently Building
 
-| Project                             | Description                                                                                                                                                                                                                       |
-| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **DevOps CI/CD Pipeline**           | End-to-end pipeline deploying a containerized web app to AWS — Docker for packaging, ECR for the registry, Terraform for provisioning, Ansible for configuration, all wired into a CI/CD flow through the IEEE mentorship program |
-| **Sri Lanka Microservices Concept** | University group project exploring AI-forward, microservices-based business ideas targeting real market gaps in Sri Lanka                                                                                                         |
+| Project | Description |
+|---|---|
+| **DevOps Knowledge Base — AWS ECS Deployment** | IEEE Young Protégé 2026 capstone: a FastAPI + PostgreSQL (RDS) knowledge base app, deployed through `GitHub → GitHub Actions CI/CD → Build Server → AWS ECR → ECS Fargate → RDS`, monitored with Prometheus + Grafana, all infra provisioned via Terraform. Mentored by a Senior DevOps Engineer at CMS (Pvt) Ltd. |
+| **Skill-Lanka (WedaLK)** | University group project — a service marketplace platform built with React, Spring Boot, and PostgreSQL. I lead as Project Manager, while also contributing as a developer and QA. |
+
+### 📦 Past Projects
+
+| Project | Description |
+|---|---|
+| **CareerLens** | A career-path recommender built to demonstrate SRE/DevOps chops end-to-end: Docker multi-stage builds, `docker-compose` + nginx, Terraform-provisioned AWS EC2, and a 3-job GitHub Actions CI/CD pipeline. |
+| **WebDNA** | A multi-agent system built at a hackathon to scrape and synthesize web design patterns — an early dive into agentic architectures. |
 
 ---
 
@@ -104,8 +115,9 @@ $ whoami --devops-path
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/hirusha-silva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[hirushasipsara@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hirusha-silva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hirushasipsara@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
 
 <p align="center"><i>Currently open to DevOps, Software Engineering, and AI internship opportunities 🚀</i></p>
