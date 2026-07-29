@@ -9,7 +9,6 @@
   <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/matrix-banner.svg" width="100%" alt="matrix banner" />
 </p>
 
-
 ---
 
 ### 🚀 About Me
@@ -18,7 +17,7 @@
 - ☁️ Mainly focused on **DevOps & Cloud Engineering** — that's where most of my time goes
 - 🧩 Currently in the **IEEE Young Protégé 2026 DevOps Mentorship Program**, going deep on Linux, Docker, Terraform, Ansible, and AWS
 - 🔧 Comfortable across the full DevOps loop: provisioning infra (Terraform) → configuring it (Ansible) → containerizing apps (Docker) → shipping to the cloud (AWS ECR, Azure) → automating it all (GitHub Actions CI/CD)
-- 🔐 Big on doing cloud the *right* way — IAM roles over hardcoded credentials, reproducible infra, and understanding **why** a tool is used, not just how
+- 🔐 Big on doing cloud the _right_ way — IAM roles over hardcoded credentials, reproducible infra, and understanding **why** a tool is used, not just how
 - 💻 Also open to **Software Engineering** and **AI internships** alongside DevOps roles
 - 💡 Exploring AI-forward microservice business ideas for the Sri Lankan market
 - 🌱 Self-directed learner — I build hands-on projects to actually absorb what I study, not just pass exams
@@ -73,10 +72,10 @@ $ whoami --devops-path
 
 ### 🔭 Currently Building
 
-| Project | Description |
-|---|---|
-| **DevOps CI/CD Pipeline** | End-to-end pipeline deploying a containerized web app to AWS — Docker for packaging, ECR for the registry, Terraform for provisioning, Ansible for configuration, all wired into a CI/CD flow through the IEEE mentorship program |
-| **Sri Lanka Microservices Concept** | University group project exploring AI-forward, microservices-based business ideas targeting real market gaps in Sri Lanka |
+| Project                             | Description                                                                                                                                                                                                                       |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **DevOps CI/CD Pipeline**           | End-to-end pipeline deploying a containerized web app to AWS — Docker for packaging, ECR for the registry, Terraform for provisioning, Ansible for configuration, all wired into a CI/CD flow through the IEEE mentorship program |
+| **Sri Lanka Microservices Concept** | University group project exploring AI-forward, microservices-based business ideas targeting real market gaps in Sri Lanka                                                                                                         |
 
 ---
 
@@ -96,7 +95,7 @@ $ whoami --devops-path
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/HirushaSipsara/HirushaSipsara/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/HirushaSipsara/HirushaSipsara/gh-pages/github-contribution-grid-snake-dark.svg">
 
 </p>
 
