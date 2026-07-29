@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HirushaSipsara/HirushaSipsara/main/matrix-banner.svg" width="100%" alt="matrix banner" />
+  <img src="https://raw.githubusercontent.com/HirushaSipsara/HirushaSipsara/main/matrix-banner-animation-fixed.svg" width="100%" alt="matrix banner" />
 </p>
 
 ---
