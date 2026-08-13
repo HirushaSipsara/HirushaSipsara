@@ -90,27 +90,6 @@ $ whoami --devops-path
 
 ---
 
-**Step 1 — Create a GitHub classic token**
-- GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic)
-- Click **Generate new token (classic)** → scope: `repo` → expiration: **No expiration**
-- ⚠️ **Copy it immediately — you can't see it again. Never paste it anywhere public.**
-
-**Step 2 — Fork the repo**
-- Go to [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and click **Fork**
-
-**Step 3 — Deploy to Vercel**
-- Sign up at [vercel.com](https://vercel.com) with GitHub (Hobby plan is free)
-- **Add New Project** → import your fork
-- Add environment variable: `PAT_1` = your token from Step 1
-- Click **Deploy**
-
-**Step 4 — Update README URLs**
-- Replace `github-readme-stats.vercel.app` in this README with your own Vercel instance URL
-
-</details>
-
----
-
 ### 🐍 Contribution Snake
 
 <!-- ⚠️ The snake only renders after the GitHub Action runs green at least once.
