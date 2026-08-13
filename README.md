@@ -78,7 +78,7 @@ $ whoami --devops-path
 
 | Project | Description |
 |---|---|
-| **DevOps Knowledge Base — AWS ECS Deployment** | IEEE Young Protégé 2026 capstone: a FastAPI + PostgreSQL (RDS) knowledge base app, deployed through `GitHub → GitHub Actions CI/CD → Build Server → AWS ECR → ECS Fargate → RDS`, monitored with Prometheus + Grafana, all infra provisioned via Terraform. Mentored by a Senior DevOps Engineer at CMS (Pvt) Ltd. |
+| **DevOps Knowledge Base - AWS ECS Deployment** | IEEE Young Protégé 2026 capstone: a FastAPI + PostgreSQL (RDS) knowledge base app, deployed through `GitHub → GitHub Actions CI/CD → Build Server → AWS ECR → ECS Fargate → RDS`, monitored with Prometheus + Grafana, all infra provisioned via Terraform. Mentored by a Senior DevOps Engineer at CMS (Pvt) Ltd. |
 | **Skill-Lanka (WedaLK)** | University group project — a service marketplace platform built with React, Spring Boot, and PostgreSQL. I lead as Project Manager, while also contributing as a developer and QA. |
 
 ### 📦 Past Projects
