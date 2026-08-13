@@ -90,22 +90,6 @@ $ whoami --devops-path
 
 ---
 
-### 📊 GitHub Stats
-
-> ⚠️ The public `github-readme-stats` instance is shared by thousands of users and often returns **"API rate limit exceeded"**. Self-hosting on Vercel (free tier) with your own token fixes this permanently — expand below for steps.
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HirushaSipsara&show_icons=true&hide_border=true&count_private=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&icon_color=089182&text_color=c9d1d9" alt="Hirusha's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirushaSipsara&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=HirushaSipsara&hide_border=true&background=0A101F&stroke=22D3EE&ring=089182&fire=22D3EE&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=22D3EE&sideLabels=089182&dates=c9d1d9" alt="GitHub Streak" />
-</p>
-
-<details>
-<summary>📌 <strong>How to self-host stats cards (recommended — fixes rate limit errors)</strong></summary>
-
 **Step 1 — Create a GitHub classic token**
 - GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic)
 - Click **Generate new token (classic)** → scope: `repo` → expiration: **No expiration**
