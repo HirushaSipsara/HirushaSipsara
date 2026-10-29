@@ -21,6 +21,13 @@ My work spans **Java distributed systems, C#/.NET microservices, React applicati
 
 > **My focus:** develop useful software, test its behaviour, and understand how it operates after deployment.
 
+<picture>
+<source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/pipeline-mobile-static.svg" />
+<source media="(prefers-reduced-motion: reduce)" srcset="assets/pipeline-static.svg" />
+<source media="(max-width: 600px)" srcset="assets/pipeline-mobile.svg" />
+<img src="assets/pipeline.svg" width="100%" alt="Engineering workflow: code, test, build, deploy, observe" />
+</picture>
+
 ## Selected work
 
 Application engineering and cloud delivery, with my contributions identified for collaborative projects.
@@ -28,13 +35,13 @@ Application engineering and cloud delivery, with my contributions identified for
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/ASSMS-Team/assms-dispatch-service"><picture><source media="(max-width: 600px)" srcset="assets/assms-mobile.svg" /><img src="assets/assms.svg" width="100%" alt="ASSMS: C# / .NET · Kafka · Azure" /></picture></a>
+<a href="https://github.com/ASSMS-Team/assms-dispatch-service"><picture><source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/assms-mobile-static.svg" /><source media="(prefers-reduced-motion: reduce)" srcset="assets/assms-static.svg" /><source media="(max-width: 600px)" srcset="assets/assms-mobile.svg" /><img src="assets/assms.svg" width="100%" alt="ASSMS: C# / .NET · Kafka · Azure" /></picture></a>
 <p>Technician assignment with workload-based selection and a transactional outbox.</p>
 <p><b>My work:</b> Dispatch implementation, Azure infrastructure, and CI/CD.</p>
 <a href="https://github.com/ASSMS-Team/assms-dispatch-service">Explore repository ↗</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/SachiniKK/fault-tolerant-distributed-payment-processing-system"><picture><source media="(max-width: 600px)" srcset="assets/raft-mobile.svg" /><img src="assets/raft.svg" width="100%" alt="Distributed payments: Java · Spring Boot · Raft" /></picture></a>
+<a href="https://github.com/SachiniKK/fault-tolerant-distributed-payment-processing-system"><picture><source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/raft-mobile-static.svg" /><source media="(prefers-reduced-motion: reduce)" srcset="assets/raft-static.svg" /><source media="(max-width: 600px)" srcset="assets/raft-mobile.svg" /><img src="assets/raft.svg" width="100%" alt="Distributed payments: Java · Spring Boot · Raft" /></picture></a>
 <p>A team-built payment system exploring distributed coordination.</p>
 <p><b>My work:</b> Raft elections, log replication, majority commits, and the demo dashboard.</p>
 <a href="https://github.com/SachiniKK/fault-tolerant-distributed-payment-processing-system">Explore repository ↗</a>
@@ -42,13 +49,13 @@ Application engineering and cloud delivery, with my contributions identified for
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/VimukthiHerath/Lanka-Fix-SaaS"><picture><source media="(max-width: 600px)" srcset="assets/lankafix-mobile.svg" /><img src="assets/lankafix.svg" width="100%" alt="LankaFix: React · Spring Boot · PostgreSQL" /></picture></a>
+<a href="https://github.com/VimukthiHerath/Lanka-Fix-SaaS"><picture><source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/lankafix-mobile-static.svg" /><source media="(prefers-reduced-motion: reduce)" srcset="assets/lankafix-static.svg" /><source media="(max-width: 600px)" srcset="assets/lankafix-mobile.svg" /><img src="assets/lankafix.svg" width="100%" alt="LankaFix: React · Spring Boot · PostgreSQL" /></picture></a>
 <p>A services marketplace with customer, worker, and admin workflows.</p>
 <p><b>My work:</b> UI/UX, frontend development, error handling, Gemini integration, and a separate Google Cloud deployment.</p>
 <a href="https://github.com/VimukthiHerath/Lanka-Fix-SaaS">Explore repository ↗</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/HirushaSipsara/certifylk"><picture><source media="(max-width: 600px)" srcset="assets/certifylk-mobile.svg" /><img src="assets/certifylk.svg" width="100%" alt="CertifyLK: Next.js · FastAPI · AWS" /></picture></a>
+<a href="https://github.com/HirushaSipsara/certifylk"><picture><source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/certifylk-mobile-static.svg" /><source media="(prefers-reduced-motion: reduce)" srcset="assets/certifylk-static.svg" /><source media="(max-width: 600px)" srcset="assets/certifylk-mobile.svg" /><img src="assets/certifylk.svg" width="100%" alt="CertifyLK: Next.js · FastAPI · AWS" /></picture></a>
 <p>Certification readiness guidance for Sri Lankan food manufacturers.</p>
 <p><b>My work:</b> Application development, backend assessment behaviour, and DevOps.</p>
 <a href="https://github.com/HirushaSipsara/certifylk">Explore repository ↗</a>
@@ -56,13 +63,13 @@ Application engineering and cloud delivery, with my contributions identified for
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/HirushaSipsara/devops-knowledge-base/tree/Dev"><picture><source media="(max-width: 600px)" srcset="assets/knowledge-mobile.svg" /><img src="assets/knowledge.svg" width="100%" alt="DevOps Knowledge Base: Terraform · Docker · GitHub Actions" /></picture></a>
+<a href="https://github.com/HirushaSipsara/devops-knowledge-base/tree/Dev"><picture><source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/knowledge-mobile-static.svg" /><source media="(prefers-reduced-motion: reduce)" srcset="assets/knowledge-static.svg" /><source media="(max-width: 600px)" srcset="assets/knowledge-mobile.svg" /><img src="assets/knowledge.svg" width="100%" alt="DevOps Knowledge Base: Terraform · Docker · GitHub Actions" /></picture></a>
 <p>A FastAPI/PostgreSQL application for commands, tools, and snippets.</p>
 <p><b>My work:</b> CI/CD, containers, and Terraform for EC2 with S3 remote-state configuration.</p>
 <a href="https://github.com/HirushaSipsara/devops-knowledge-base/tree/Dev">Explore repository ↗</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/HirushaSipsara/Skybreak"><picture><source media="(max-width: 600px)" srcset="assets/skybreak-mobile.svg" /><img src="assets/skybreak.svg" width="100%" alt="Skybreak: Unity · C# · Agent behaviour" /></picture></a>
+<a href="https://github.com/HirushaSipsara/Skybreak"><picture><source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/skybreak-mobile-static.svg" /><source media="(prefers-reduced-motion: reduce)" srcset="assets/skybreak-static.svg" /><source media="(max-width: 600px)" srcset="assets/skybreak-mobile.svg" /><img src="assets/skybreak.svg" width="100%" alt="Skybreak: Unity · C# · Agent behaviour" /></picture></a>
 <p>A Unity/C# team project with combat, mission flow, navigation, and intelligent agents.</p>
 <p>Coursework in Graphics &amp; Visualization and Intelligent Systems.</p>
 <a href="https://github.com/HirushaSipsara/Skybreak">Explore repository ↗</a>
@@ -129,48 +136,48 @@ My work focuses on CI/CD, containerisation, and Terraform infrastructure. The De
 **Languages**
 
 <p>
-<img src="assets/tech-0-0.svg" height="30" alt="Java" />
-<img src="assets/tech-0-1.svg" height="30" alt="Python" />
-<img src="assets/tech-0-2.svg" height="30" alt="C#" />
-<img src="assets/tech-0-3.svg" height="30" alt="JavaScript" />
-<img src="assets/tech-0-4.svg" height="30" alt="TypeScript" />
-<img src="assets/tech-0-5.svg" height="30" alt="SQL" />
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-0-0-static.svg" /><img src="assets/tech-0-0.svg" height="30" alt="Java" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-0-1-static.svg" /><img src="assets/tech-0-1.svg" height="30" alt="Python" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-0-2-static.svg" /><img src="assets/tech-0-2.svg" height="30" alt="C#" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-0-3-static.svg" /><img src="assets/tech-0-3.svg" height="30" alt="JavaScript" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-0-4-static.svg" /><img src="assets/tech-0-4.svg" height="30" alt="TypeScript" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-0-5-static.svg" /><img src="assets/tech-0-5.svg" height="30" alt="SQL" /></picture>
 </p>
 
 **Application engineering**
 
 <p>
-<img src="assets/tech-1-0.svg" height="30" alt="Spring Boot" />
-<img src="assets/tech-1-1.svg" height="30" alt=".NET" />
-<img src="assets/tech-1-2.svg" height="30" alt="FastAPI" />
-<img src="assets/tech-1-3.svg" height="30" alt="React" />
-<img src="assets/tech-1-4.svg" height="30" alt="Next.js" />
-<img src="assets/tech-1-5.svg" height="30" alt="Kafka" />
-<img src="assets/tech-1-6.svg" height="30" alt="PostgreSQL" />
-<img src="assets/tech-1-7.svg" height="30" alt="MySQL" />
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-1-0-static.svg" /><img src="assets/tech-1-0.svg" height="30" alt="Spring Boot" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-1-1-static.svg" /><img src="assets/tech-1-1.svg" height="30" alt=".NET" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-1-2-static.svg" /><img src="assets/tech-1-2.svg" height="30" alt="FastAPI" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-1-3-static.svg" /><img src="assets/tech-1-3.svg" height="30" alt="React" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-1-4-static.svg" /><img src="assets/tech-1-4.svg" height="30" alt="Next.js" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-1-5-static.svg" /><img src="assets/tech-1-5.svg" height="30" alt="Kafka" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-1-6-static.svg" /><img src="assets/tech-1-6.svg" height="30" alt="PostgreSQL" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-1-7-static.svg" /><img src="assets/tech-1-7.svg" height="30" alt="MySQL" /></picture>
 </p>
 
 **Cloud & delivery**
 
 <p>
-<img src="assets/tech-2-0.svg" height="30" alt="AWS" />
-<img src="assets/tech-2-1.svg" height="30" alt="Azure" />
-<img src="assets/tech-2-2.svg" height="30" alt="Google Cloud" />
-<img src="assets/tech-2-3.svg" height="30" alt="Terraform" />
-<img src="assets/tech-2-4.svg" height="30" alt="Ansible" />
-<img src="assets/tech-2-5.svg" height="30" alt="Docker" />
-<img src="assets/tech-2-6.svg" height="30" alt="GitHub Actions" />
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-2-0-static.svg" /><img src="assets/tech-2-0.svg" height="30" alt="AWS" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-2-1-static.svg" /><img src="assets/tech-2-1.svg" height="30" alt="Azure" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-2-2-static.svg" /><img src="assets/tech-2-2.svg" height="30" alt="Google Cloud" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-2-3-static.svg" /><img src="assets/tech-2-3.svg" height="30" alt="Terraform" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-2-4-static.svg" /><img src="assets/tech-2-4.svg" height="30" alt="Ansible" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-2-5-static.svg" /><img src="assets/tech-2-5.svg" height="30" alt="Docker" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-2-6-static.svg" /><img src="assets/tech-2-6.svg" height="30" alt="GitHub Actions" /></picture>
 </p>
 
 **Quality & observability**
 
 <p>
-<img src="assets/tech-3-0.svg" height="30" alt="pytest" />
-<img src="assets/tech-3-1.svg" height="30" alt="JUnit" />
-<img src="assets/tech-3-2.svg" height="30" alt="SonarQube" />
-<img src="assets/tech-3-3.svg" height="30" alt="Prometheus" />
-<img src="assets/tech-3-4.svg" height="30" alt="Grafana" />
-<img src="assets/tech-3-5.svg" height="30" alt="Linux" />
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-3-0-static.svg" /><img src="assets/tech-3-0.svg" height="30" alt="pytest" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-3-1-static.svg" /><img src="assets/tech-3-1.svg" height="30" alt="JUnit" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-3-2-static.svg" /><img src="assets/tech-3-2.svg" height="30" alt="SonarQube" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-3-3-static.svg" /><img src="assets/tech-3-3.svg" height="30" alt="Prometheus" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-3-4-static.svg" /><img src="assets/tech-3-4.svg" height="30" alt="Grafana" /></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-3-5-static.svg" /><img src="assets/tech-3-5.svg" height="30" alt="Linux" /></picture>
 </p>
 
 **Foundations:** object-oriented programming · data structures and algorithms · REST APIs · distributed systems · software testing · Agile/Scrum
