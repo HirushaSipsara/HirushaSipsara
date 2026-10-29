@@ -13,6 +13,13 @@
   <a href="https://www.linkedin.com/in/hirusha-silva">LinkedIn ↗</a>
 </p>
 
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/workspace-scene-mobile-static.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/workspace-scene-static.svg" />
+  <source media="(max-width: 600px)" srcset="assets/workspace-scene-mobile.svg" />
+  <img src="assets/workspace-scene.svg" width="100%" alt="Animated developer workspace: a floating robot waves and types beside scrolling code, moving cloud packets, and a spinning server fan." />
+</picture>
+
 ## About
 
 I'm **Hirusha**, a third-year **BSc (Hons) Computer Science undergraduate at SLIIT**. I build backend services and full-stack applications, alongside the cloud infrastructure and automated pipelines used to deliver them.
